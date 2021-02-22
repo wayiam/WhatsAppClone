@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922703129470",
+    "project_id": "whatsdataapp-51f30",
+    "storage_bucket": "whatsdataapp-51f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922703129470:android:a6d2f11b5ffb82e6a1e12f",
+        "android_client_info": {
+          "package_name": "com.saksham.whatsdataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922703129470-fvvf6nlrq8jj5ko0qm202utaoul97dmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbejvwV3roLkffjo8ieQHZIdifcqM43hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922703129470-fvvf6nlrq8jj5ko0qm202utaoul97dmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
